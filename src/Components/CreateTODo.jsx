@@ -1,7 +1,9 @@
 import React from 'react'
 
-export const CreateTODo = () => {
+const CreateTODo = () => {
   return (
-    <div>Hi Kundan, hello bittu main thik hu aap kaise ho</div>
+    <div>CreateTODo</div>
   )
 }
+
+export default CreateTODo
